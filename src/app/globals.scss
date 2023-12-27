@@ -1,0 +1,20 @@
+:root {
+  @font-face {
+    font-family: Gilroy-Medium;
+    src: url("../assets/font/FontsFree-Net-Gilroy2.ttf");
+  }
+  @font-face {
+    font-family: Gilroy-SemiBold;
+    src: url("../assets/font/Gilroy-SemiBold.ttf");
+  }
+
+  @font-face {
+    font-family: Gilroy-REgular;
+    src: url("../assets/font/Gilroy-Regular.ttf");
+  }
+}
+
+body {
+  margin: 0px;
+  overflow-x: hidden;
+}
